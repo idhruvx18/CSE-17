@@ -31,3 +31,6 @@ nav ul li a {
 section {
     padding: 20px;
 }
+h1, p {
+    text-align: center;
+}
