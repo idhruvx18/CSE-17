@@ -34,3 +34,6 @@ section {
 h1, p {
     text-align: center;
 }
+section div {
+    text-align: center;
+}
