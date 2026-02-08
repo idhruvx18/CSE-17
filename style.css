@@ -43,3 +43,9 @@ section {
     gap: 30px;
     flex-wrap: wrap;
 }
+section img {
+    width: 200px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 8px;
+}
