@@ -37,3 +37,9 @@ h1, p {
 section div {
     text-align: center;
 }
+section {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
