@@ -108,3 +108,6 @@ section a {
     text-decoration: none;
     border-radius: 6px;
 }
+section a:hover {
+    background-color: #000;
+}
